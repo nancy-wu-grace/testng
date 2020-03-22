@@ -31,7 +31,7 @@ public class GroupOnMethod {
     }
     @AfterGroups("service")
     public void afterServicev(){
-        System.out.println("这是服务端之后执行的方法");
+        System.out.println("这是服务端之后执行的方法sdfs--- -");
     }
 
 }
