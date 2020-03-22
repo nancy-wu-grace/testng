@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="91fdab50-761d-4fb8-9f0e-0d154b4a9bc7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="91fdab50-761d-4fb8-9f0e-0d154b4a9bc7" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/Chapter/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -104,8 +101,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Chapter/src/main/java/com/course/testng/multithread/MutilThreadOnXml.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="160">
-              <caret line="17" column="5" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
+            <state relative-caret-position="206">
+              <caret line="19" lean-forward="true" selection-start-line="18" selection-start-column="1" selection-end-line="19" />
               <folding>
                 <element signature="e#97#98#0" expanded="true" />
                 <element signature="e#133#134#0" expanded="true" />
@@ -299,7 +296,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1584871901570" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1584872688576" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../wuxiaopingtestngtest" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -411,7 +408,7 @@
       <workItem from="1584583354784" duration="1605000" />
       <workItem from="1584621683775" duration="9335000" />
       <workItem from="1584712274351" duration="794000" />
-      <workItem from="1584846578378" duration="5759000" />
+      <workItem from="1584846578378" duration="6043000" />
     </task>
     <servers />
   </component>
@@ -448,7 +445,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="26000000" />
+    <option name="totallyTimeSpent" value="26284000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -674,8 +671,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Chapter/src/main/java/com/course/testng/multithread/MutilThreadOnXml.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="160">
-          <caret line="17" column="5" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
+        <state relative-caret-position="206">
+          <caret line="19" lean-forward="true" selection-start-line="18" selection-start-column="1" selection-end-line="19" />
           <folding>
             <element signature="e#97#98#0" expanded="true" />
             <element signature="e#133#134#0" expanded="true" />
