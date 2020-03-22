@@ -16,4 +16,8 @@ public class MutilThreadOnXml {
     public void test03(){
         System.out.println("这是test03:"+Thread.currentThread().getId());
     }
+    @Test
+    public void test04(){
+        System.out.println("这是test03:"+Thread.currentThread().getId());
+    }
 }
